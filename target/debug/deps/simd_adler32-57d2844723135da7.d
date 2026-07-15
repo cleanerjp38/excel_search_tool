@@ -1,0 +1,14 @@
+C:\dev\rust-math-study\excel_search\target\debug\deps\simd_adler32-57d2844723135da7.d: C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\lib.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\hash.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\mod.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\avx2.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\avx512.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\neon.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\scalar.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\sse2.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\ssse3.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\wasm.rs
+
+C:\dev\rust-math-study\excel_search\target\debug\deps\libsimd_adler32-57d2844723135da7.rmeta: C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\lib.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\hash.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\mod.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\avx2.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\avx512.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\neon.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\scalar.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\sse2.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\ssse3.rs C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\wasm.rs
+
+C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\lib.rs:
+C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\hash.rs:
+C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\mod.rs:
+C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\avx2.rs:
+C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\avx512.rs:
+C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\neon.rs:
+C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\scalar.rs:
+C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\sse2.rs:
+C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\ssse3.rs:
+C:\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\simd-adler32-0.3.10\src\imp\wasm.rs:

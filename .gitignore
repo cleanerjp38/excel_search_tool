@@ -1,0 +1,5 @@
+# Excelファイルを除外
+*.xlsx
+
+# Rustのビルド生成物（targetフォルダ）を除外
+/target/

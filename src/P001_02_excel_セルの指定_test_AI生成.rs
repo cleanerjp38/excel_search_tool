@@ -18,14 +18,14 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
         // 最初の10行分を対象に横走査（ループ）をかけます。
         let mut target_col_index = None;
 
-        //「'outer」←なんだこれ？ライフタイムか？
+        //「'outer」←なんだこれ？ライフタイムか？：俺
         'outer: for row_idx in 0..10 {
-            //Some()も時々見かけるけど、なんだこれ？
+            //Some()も時々見かけるけど、なんだこれ？：俺
             if let Some(row) = range.rows().nth(row_idx) {
-                //rowの要素は&Dataなのえらい。enumerate()でcol_idxがusizeになっている
+                //rowの要素は&Dataなのえらい。enumerate()でcol_idxがusizeになっている：俺
                 for (col_idx, cell) in row.iter().enumerate() {
                     // セルが文字列型で、かつ「情報サービス業」という文字が含まれているかチェック
-                    //as_string()とto_string()の違いがよくわからなったけど、as_string()はdata typeをStringに直すようだ
+                    //as_string()とto_string()の違いがよくわからなったけど、as_string()はdata typeをStringに直すようだ：俺
                     if let Some(text) = cell.as_string() {
                         if text.trim() == "情報サービス業" {
                             target_col_index = Some(col_idx);
@@ -46,7 +46,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
         println!("❌ シートが見つかりませんでした。");
     }
 
-    //Ok()ってなんだろう？main()からResultを外に返しているのかな？
+    //Ok()ってなんだろう？main()からResultを外に返しているのかな？：俺
     Ok(())
 }
-//P001_02_excel_セルの指定_test_AI生成
+//P001_02_excel_セルの指定_test_AI生成_読解

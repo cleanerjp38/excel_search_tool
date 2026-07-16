@@ -22,6 +22,7 @@ impl ExcelScraper {
         //「?」はopen_workbook(path)を実行してOkなら続行、駄目ならそのエラーをreturnして終了する分岐機能だそうだ
         let mut workbook: Xlsx<_> = open_workbook(path)?;
         //ok_or()も?に似てるね。駄目なら文章を出力するのだろう
+        //ok_or()はエラー値を作る関数らしい。エラー値と共にメッセージが出るのかな？
         //?やok_or()はResult型にしか使えない？
         let range = workbook.worksheet_range_at(0)
             .ok_or("シートがありません")??;
@@ -119,4 +120,4 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     Ok(())
 }
-//P001_03_1_セルのデータ抽出_test_AI生成_読解
+//P001_03_1_excel_セルのデータ抽出_test_AI生成_読解
